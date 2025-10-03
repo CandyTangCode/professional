@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.B.A University of Washington, 2025
+* M.S. in Biomedical Engineering, Illinois Institute of Technology
+* B.S. in Bioengineering, China Three Gorges University
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Pathways Operations Manager, Amazon Logistics
+  * Participate in the Pathway Leadership Program
+  * Lead data-driven labor planning for 100+ associates daily, leveraging analytics to optimize real-time staffing decisions, resulting in balanced delivery performance and cost efficiency while maintaining safety standards
+  * Tackle a long-standing operational bottleneck, cutting daily labor hour waste by 35.29% through targeted associate engagement (daily startup meetings, 1:1s, and consistent recognition)
+  * Identify process defects and proposed barcode implementation, reducing vehicle safety inspection time by 25% while maintaining top safety standards
 
 * Fall 2015: Research Assistant
   * GitHub University
