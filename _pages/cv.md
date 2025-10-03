@@ -12,25 +12,25 @@ redirect_from:
 Education
 ======
 * M.B.A University of Washington, 2025
-* M.S. in Biomedical Engineering, Illinois Institute of Technology
-* B.S. in Bioengineering, China Three Gorges University
+* M.S. in Biomedical Engineering, Illinois Institute of Technology. 2016
+* B.S. in Bioengineering, China Three Gorges University, 2014
 
 Work experience
 ======
-* Pathways Operations Manager, Amazon Logistics
+* Pathways Operations Manager, Amazon Logistics, 2025
   * Participate in the Pathway Leadership Program
   * Lead data-driven labor planning for 100+ associates daily, leveraging analytics to optimize real-time staffing decisions, resulting in balanced delivery performance and cost efficiency while maintaining safety standards
   * Tackle a long-standing operational bottleneck, cutting daily labor hour waste by 35.29% through targeted associate engagement (daily startup meetings, 1:1s, and consistent recognition)
   * Identify process defects and proposed barcode implementation, reducing vehicle safety inspection time by 25% while maintaining top safety standards
 
-* Product Management Consultant, Stack Moxie (a B2B marketing SaaS startup focused on revenue operations)
+* Product Management Consultant, Stack Moxie (a B2B marketing SaaS startup focused on revenue operations),2025
   * Led customer interviews to validate senior leadership’s feature proposals; uncovered critical gaps and major clients' needs through data-backed insights; self-taught new tools (Figma and Stitch) to prototype a new user interface adopted by senior leadership
   * Delivered Amazon-style documentation (PRFAQ and white paper) and an executive-level presentation that shaped product direction and secured stakeholder alignment across engineering, customer success, and leadership teams
 
-* Private Equity Intern, Brockhurst & Buchanan (a PE firm focused on senior care), Seattle, WA 2024
+* Private Equity Intern, Brockhurst & Buchanan (a PE firm focused on senior care), 2024
   * Led screening calls and interviewed CEOs of mid-market senior care companies; managed high-potential pipelines across multiple sectors and conducted due diligence, supporting $12M in raised capital
 
-* Finance Intern, Nitecapp (a generative AI-powered tech startup in hospitality education), Seattle, WA 2024
+* Finance Intern, Nitecapp (a generative AI-powered tech startup in hospitality education), 2024
   * Drove strategy and prioritization with diverse inputs to develop a pricing strategy through customer analysis, price sensitivity, WTP assessment, and benchmarking, projected to generate an additional $52M in revenue
   * Directed a cross-functional effort to design a pre-revenue valuation model based on comprehensive market research, risk assessment, multi-factor financial modeling, and distilling insights from expert interviews; unlocked hidden value creation opportunities for $8M
 
@@ -54,7 +54,7 @@ Work experience
   
 Skills
 ======
-🎯 Core Competencies
+* Core Competencies
   * Product Management
   * Program Management
   * Operations Leadership
@@ -64,7 +64,7 @@ Skills
   * Process Improvement
   * Project Management
 
-📊 Data & Analytical Skills
+* Data & Analytical Skills
   * Data Analysis & Visualization
   * Statistical Modeling
   * Design of Experiments (DOE)
@@ -76,7 +76,7 @@ Skills
   * SQL (Enthusiastic User)
   * Machine Learning (Certificate Holder)
 
-💻 Technical Tools
+* Technical Tools
   * SQL
   * Figma
   * Stitch
@@ -84,7 +84,7 @@ Skills
   * Data Visualization Tools (e.g., dashboards, reports)
   * Amazon-Style Documentation (PRFAQ, White Papers)
 
-💼 Business & Industry Expertise
+ Business & Industry Expertise
   * SaaS Product Development
   * Operations & Supply Chain (Amazon Logistics)
   * Healthcare & Life Sciences (Abbott, Arrowhead, Allen Institute)
@@ -92,13 +92,13 @@ Skills
   * Biomedical Engineering
   * AI-Powered Tech Startups
 
-🏆 Achievements & Recognition
+* Achievements & Recognition
   * 2× Meritorious Winner – International Mathematical Contest in Modeling (Data Prize-level recognition)
   * National Endeavor Fellowship (Top 2%)
   * Departmental Scholarship (Top 5%)
   * Startup Competition First Prize Winner
 
-🌍 Leadership & Communication
+* Leadership & Communication
   * Board Treasurer – Washington Council for Economic and Financial Education
   * Executive Presentations & Stakeholder Alignment
   * Customer Research & Feature Validation
